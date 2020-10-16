@@ -1,0 +1,5 @@
+﻿  FactoryWorker.cpp
+C:\Users\f-abd\source\repos\FactoryWorker\FactoryWorker\FactoryWorker.cpp(47,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\f-abd\source\repos\FactoryWorker\FactoryWorker\FactoryWorker.cpp(70,33): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\f-abd\source\repos\FactoryWorker\FactoryWorker\FactoryWorker.cpp(93,26): warning C4018: <: несоответствие типов со знаком и без знака
+  FactoryWorker.vcxproj -> C:\Users\f-abd\source\repos\FactoryWorker\Debug\FactoryWorker.exe
